@@ -1,155 +1,19 @@
 body {
-  margin: 0;
-  text-align: center;
-  font-family: Montserrat, serif;
-  background-color: #F0EBE3;
+  background-color: #E4DCCF;
 }
 
 hr {
-  background-color: #F0EBE3;
+  background-color: #E4DCCF;
   border-style: dotted none none none;
-  border-color: #576F72;
+  border-color: #F0EBE3;
   border-width: 5px;
   width: 5%;
 }
 
-table {
-  text-align: left;
-}
-
 h1 {
-  display: inline;
-  font-size: 562.5%;
-  color: #576F72;
-  line-height: 2;
-  margin: 50px auto 0 auto;
-  font-family: Silkscreen, cursive;
-}
-
-h2 {
-  font-family: Poppins, sans-serif;
-  color: #576F72;
+  color: #576F72
 }
 
 h3 {
-  font-family: Montserrat, sans-serif;
-  color: #7D9D9C;
-}
-
-.top-container {
-  background-color: #E4DCCF;
-  position: relative;
-  padding-top: 128px;
-  margin-bottom: 60px;
-}
-
-.profile {
-  margin-bottom: 100px;
-}
-
-.projects {
-  margin-bottom: 100px;
-}
-
-.skills {
-  margin-bottom: 100px;
-}
-
-.contact-me {
-  margin: auto auto 80px auto;
-}
-
-.bottom-container {
-  background-color: #E4DCCF;
-  padding: 20px;
-}
-
-.skill-row {
-  position: relative;
-  right: 100px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px
-}
-
-.profile-pic {
-  width: 200px;
-  margin: 20px auto;
-}
-
-.intro {
-  width: 600px;
-  margin: 20px auto 20px auto;
-}
-
-.skill-row {
-  width: 50%;
-  margin: 100px auto 100px auto;
-}
-
-.subtitle {
-  margin: 100px auto 0 auto;
-}
-
-.java {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.python {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.ocaml {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.ios {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.sql {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.html {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.git {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.btn {
-  color: #576F72;
-}
-
-.footer-link {
-  color: #576F72;
-}
-
-.copyright {
-  color: #7D9D9C;
+  color: #576F72
 }
